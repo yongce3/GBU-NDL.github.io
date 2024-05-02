@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Laboratory overview:
-Our research direction:
-Our research philosophy:
-Research group equipment:
-Member of the research group:
-The results of the research group:
-Activities that the research group participated in:
-Communication conducted by the research group:
+Laboratory overview:<br>
+Our research direction:<br>
+Our research philosophy:<br>
+Research group equipment:<br>
+Member of the research group:<br>
+The results of the research group:<br>
+Activities that the research group participated in:<br>
+Communication conducted by the research group:<br>
 
 # 🔥 News
 <!--
